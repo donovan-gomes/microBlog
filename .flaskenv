@@ -1,2 +1,1 @@
 FLASK_APP=microblog
-FLASK_ENV=development
