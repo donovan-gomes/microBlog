@@ -1,2 +1,2 @@
-# Projeto microblog (arquivo principaal)
+# Projeto microblog (arquivo principal)
 from app import app
